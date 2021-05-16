@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=2]
+
+[sub_resource type="PhysicsMaterial" id=2]
+rough = true
+bounce = 0.31
+
+[sub_resource type="NoiseTexture" id=1]
+width = 4
+height = 4
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 1.94067, 1.9998 )
+
+[node name="RigidBody2D" type="RigidBody2D"]
+position = Vector2( 558.012, 39.6808 )
+physics_material_override = SubResource( 2 )
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = SubResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 0.00964355, 0.0185394 )
+shape = SubResource( 3 )

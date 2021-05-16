@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michel/Documents/Code/Godot projects/Tron/Tron.csproj": {}
+  },
+  "projects": {
+    "/Users/michel/Documents/Code/Godot projects/Tron/Tron.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michel/Documents/Code/Godot projects/Tron/Tron.csproj",
+        "projectName": "Tron",
+        "projectPath": "/Users/michel/Documents/Code/Godot projects/Tron/Tron.csproj",
+        "packagesPath": "/Users/michel/.nuget/packages/",
+        "outputPath": "/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michel/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.8.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

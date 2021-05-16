@@ -1,0 +1,8 @@
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/bin/Debug/Tron.dll
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/bin/Debug/Tron.pdb
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/Debug/Tron.csprojAssemblyReference.cache
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/Debug/Tron.csproj.CoreCompileInputs.cache
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/Debug/Tron.AssemblyInfoInputs.cache
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/Debug/Tron.AssemblyInfo.cs
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/Debug/Tron.dll
+/Users/michel/Documents/Code/Godot projects/Tron/.mono/temp/obj/Debug/Tron.pdb
